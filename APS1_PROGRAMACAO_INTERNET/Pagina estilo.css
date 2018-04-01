@@ -1,0 +1,49 @@
+/*pagina css*/ 
+body{
+	background-image : url("Fundo.jpg");
+	background-repeat : no-repeat;
+	background-size : 100%;
+}	
+table{
+	
+	width :100%;	
+}
+tr #tr1{
+	width: 20%;
+	background-color : #007717 ;
+	color: white; 
+	text-shadow: black 0.1em 0.1em 0.10em;
+	
+}
+tr #tr2{
+	width: 25%; 
+	color: white; 
+	text-shadow: black 0.1em 0.1em 0.10em;
+}
+a:link {color: white; text-decoration:none}
+a:visited {color: white; text-decoration:none}
+a:hover {color:yellow; text-decoration:none}
+a:active {background-color: green; text-decoration:none}
+tr #tr3{
+	width: 20%; 
+	color: white; 
+	text-shadow: black 0.1em 0.1em 0.10em;
+}
+tr #tr4{
+	width: 50%; 
+	color: white; 
+	text-shadow: black 0.1em 0.1em 0.10em;
+	text-align : left;
+}
+tr #tr5{
+	width: 40%; 
+	color: white; 
+	text-shadow: black 0.1em 0.1em 0.10em;
+	text-align : left;
+}
+tr #tr6{
+	width: 10%; 
+	color: white; 
+	text-shadow: black 0.1em 0.1em 0.10em;
+	text-align : left;
+}
